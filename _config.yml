@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
+title:            Rss Türkiye
+longtitle:        Rss Türkiye
+author:           Rss
 email:            sighingnow@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Rss site adresleri ve uygulamaları.
 
 version:          1.0
 gitbook_version:  3.2.3
 
 url:              'rss-turkiye.github.io '
-baseurl:          '/jekyll-gitbook'
+baseurl:          'https://github.com/epoxeternia/rss-turkiye.github.io'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
